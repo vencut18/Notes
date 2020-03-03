@@ -1,0 +1,29 @@
+
+
+git and git hub
+
+regex
+
+power search
+
+
+json 
+ --python
+ --java
+
+JAVA 8
+ --lambda
+ --streams
+
+course names
+
+hackerrank
+codingbat
+codewars.com
+json.org
+css-tricks.org
+devdocs.io
+hackerearth.com
+codingame.com
+https://www.learneroo.com/
+https://howtodoinjava.com/java-8-tutorial/
